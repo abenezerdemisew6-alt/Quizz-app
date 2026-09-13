@@ -3,9 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quizz app</title>
+    <link rel="stylesheet" href="style.css">
+    <title>Quizz App</title>
 </head>
 <body>
-    
+    <nav>
+        <ul>
+            <li class="menu" style="visibility: hidden;"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-menu"><path d="M4 5h16"/><path d="M4 12h16"/><path d="M4 19h16"/></svg></li>
+            <li class="name">Quizz App</li>
+            <li class="user_info"><span id="user_name">user</span><span id="profile_pic"><svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-user-round"><path d="M17.925 20.056a6 6 0 0 0-11.851.001"/><circle cx="12" cy="11" r="4"/><circle cx="12" cy="12" r="10"/></svg></span></li>
+        </ul>
+    </nav>
+    <main class="hero_section">
+            <div class="left_icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-left"><path d="m15 18-6-6 6-6"/></svg></div>
+            <div class="about_section">
+                <div class="main"><img src="./pics/pic3.jpg" alt="pics"></div>
+                <div class="dots">
+                    <span id="first"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-dot"><circle cx="12" cy="12" r="1"/></svg></span>
+                    <span id="second"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-dot"><circle cx="12" cy="12" r="1"/></svg></span>
+                    <span id="third"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-dot"><circle cx="12" cy="12" r="1"/></svg></span>
+                </div>
+                <div class="start_btn">
+                    <button id="start_exam">Start Exam</button>
+                </div>
+            </div>
+            <div class="left_icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-chevron-right"><path d="m9 18 6-6-6-6"/></svg></div>
+    </main>
+    <footer>
+        <p>&copy; 2026 Quizz App. All rights reserved.</p>
+        <nav class="footer_nav">
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+            <a href="#">Privacy</a>
+        </nav>
+    </footer>
 </body>
 </html>
