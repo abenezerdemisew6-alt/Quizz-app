@@ -1,0 +1,92 @@
+[
+  {
+    "question_number": 1,
+    "question": "1. What is the powerhouse of the cell?",
+    "A": "A. Ribosome",
+    "B": "B. Mitochondria",
+    "C": "C. Endoplasmic Reticulum",
+    "D": "D. Golgi Apparatus",
+    "answer": "B"
+  },
+  {
+    "question_number": 2,
+    "question": "2. Which organelle controls the activities of the cell?",
+    "A": "A. Nucleus",
+    "B": "B. Ribosome",
+    "C": "C. Lysosome",
+    "D": "D. Vacuole",
+    "answer": "A"
+  },
+  {
+    "question_number": 3,
+    "question": "3. Which organelle is responsible for protein synthesis?",
+    "A": "A. Mitochondria",
+    "B": "B. Ribosome",
+    "C": "C. Golgi Apparatus",
+    "D": "D. Nucleus",
+    "answer": "B"
+  },
+  {
+    "question_number": 4,
+    "question": "4. Which part of the cell controls what enters and leaves the cell?",
+    "A": "A. Cell Wall",
+    "B": "B. Nucleus",
+    "C": "C. Cell Membrane",
+    "D": "D. Cytoplasm",
+    "answer": "C"
+  },
+  {
+    "question_number": 5,
+    "question": "5. Which organelle is found in plant cells and carries out photosynthesis?",
+    "A": "A. Chloroplast",
+    "B": "B. Lysosome",
+    "C": "C. Ribosome",
+    "D": "D. Mitochondria",
+    "answer": "A"
+  },
+  {
+    "question_number": 6,
+    "question": "6. What is the jelly-like substance inside the cell called?",
+    "A": "A. Nucleus",
+    "B": "B. Cytoplasm",
+    "C": "C. Cell Wall",
+    "D": "D. Chloroplast",
+    "answer": "B"
+  },
+  {
+    "question_number": 7,
+    "question": "7. Which organelle modifies, sorts, and packages proteins?",
+    "A": "A. Golgi Apparatus",
+    "B": "B. Ribosome",
+    "C": "C. Nucleus",
+    "D": "D. Vacuole",
+    "answer": "A"
+  },
+  {
+    "question_number": 8,
+    "question": "8. Which structure provides support and protection to plant cells?",
+    "A": "A. Cell Membrane",
+    "B": "B. Cell Wall",
+    "C": "C. Cytoplasm",
+    "D": "D. Nucleus",
+    "answer": "B"
+  },
+  {
+    "question_number": 9,
+    "question": "9. Which organelle contains digestive enzymes that break down waste materials?",
+    "A": "A. Lysosome",
+    "B": "B. Chloroplast",
+    "C": "C. Ribosome",
+    "D": "D. Golgi Apparatus",
+    "answer": "A"
+  },
+  {
+    "question_number": 10,
+    "question": "10. Which organelle is involved in transporting proteins and other substances within the cell?",
+    "A": "A. Vacuole",
+    "B": "B. Endoplasmic Reticulum",
+    "C": "C. Mitochondria",
+    "D": "D. Cell Wall",
+    "answer": "B"
+  }
+]
